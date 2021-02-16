@@ -1,1 +1,1 @@
-# 100_days_code_in_python
+Day 1 - Input and output.
