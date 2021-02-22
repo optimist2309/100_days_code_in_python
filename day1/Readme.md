@@ -21,4 +21,17 @@ print(x)
 o/p= 60
 eval() can evaluate the Input to list, tuple, set, etc based the provided Input.
 
+Command line arguments:- Python Command line arguments are input parameters passed to the script when executing them. 
+The sys module provides functions and variables used to manipulate different parts of the Python runtime environment. This module provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter.
+One such variable is sys.argv which is a simple list structure. It’s main purpose are.
+1.It is a list of command line arguments. 
+2.len(sys.argv) provides the number of command line arguments. 
+3.sys.argv[0] is the name of the current Python script. 
+3.sys.argv[1] will be the first input from user.
+4.sys.argv return string type only.
+5.Space is Separator of Command line arguments.
+
+
+
+
 
