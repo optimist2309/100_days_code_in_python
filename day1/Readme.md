@@ -33,6 +33,22 @@ One such variable is sys.argv which is a simple list structure. It’s main purp
 6.If we need space in our command line argument we must enclose that part in double quotes.
 How to pass arguments using command line - python script_name.py argument1 argument2.
 
+Output :- To print something in console there is only one function is available print().
+print():- It will insert newline(\n) in console.
+print() without any argument will work.
+print(String) :-It will print the string in the console.
+
+The separator between the arguments to print() function in Python is space by default (softspace feature) , which can be modified and can be made to any character, integer or string as per our choice. The ‘sep’ parameter is used to achieve the same, it is found only in python 3.x or later. It is also used for formatting the output strings.
+
+By default, python’s print() function ends with a newline. 
+A programmer with C/C++ background may wonder how to print without a newline.
+Python’s print() function comes with a parameter called ‘end’. By default, the value of this parameter is ‘\n’, 
+i.e. the new line character. You can end a print statement with any character/string using this parameter.
+
+We can use sep and end together easliy.
+
+
+
 
 
 
