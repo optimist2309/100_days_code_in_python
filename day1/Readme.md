@@ -30,7 +30,9 @@ One such variable is sys.argv which is a simple list structure. It’s main purp
 3.sys.argv[1] will be the first input from user.
 4.sys.argv return string type only.
 5.Space is Separator of Command line arguments.
+6.If we need space in our command line argument we must enclose that part in double quotes.
 How to pass arguments using command line - python script_name.py argument1 argument2.
+
 
 
 
